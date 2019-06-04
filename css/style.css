@@ -8,6 +8,9 @@ html {
   padding: 0;
   margin: 0;
 }
+.foot{
+  padding-top: 60px;
+}
 html body {
   padding: 0;
   margin: 0;
@@ -57,7 +60,7 @@ html body {
       left:10%;*/
   line-height: 30pt;
   width: 100%;
-  animation: neon6 1.5s ease-in-out infinite alternate;
+  animation: neon6 1.5s ease-in-out infinite ;
 }
 .eid-greetings .eid-greetings__Doors > div {
   height: 399px;
